@@ -1,5 +1,5 @@
 /*
-Template Name: Bistup
+Template Name: Yeinydd
 Author: <a href="https://www.os-templates.com/">OS Templates</a>
 Author URI: https://www.os-templates.com/
 Copyright: OS-Templates.com
